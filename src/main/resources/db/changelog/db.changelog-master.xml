@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+	xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+	xmlns:ext="http://www.liquibase.org/xml/ns/dbchangelog-ext"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog-ext
+   http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-ext.xsd 
+   http://www.liquibase.org/xml/ns/dbchangelog 
+   http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.4.xsd">
+
+<!-- 	<changeSet id="api_audit_log" author="alamin"> -->
+<!-- 		<sqlFile encoding="UTF-8" path="/scripts/emi_ddl.sql" -->
+<!-- 			relativeToChangelogFile="false" splitStatements="true" -->
+<!-- 			stripComments="true" /> -->
+<!-- 	</changeSet>  -->
+<!--  	<changeSet id="emi_tran_add_fields" author="alamin"> -->
+<!-- 		<sqlFile encoding="UTF-8" path="/scripts/emi_transaction_additional_fields.sql" -->
+<!-- 			relativeToChangelogFile="false" splitStatements="true" -->
+<!-- 			stripComments="true" /> -->
+<!-- 	</changeSet> -->
+ 
+ 
+ 
+</databaseChangeLog>
+
